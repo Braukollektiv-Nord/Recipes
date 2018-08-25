@@ -1,11 +1,11 @@
-# Festival Bier - 2. Versuch              ![BKN-Logo](D:\Bier Brauen\Rezepte\braukolletkiv-nord-recipes-master\BKN-Logo.png)
+# Festival Bier - 2. Versuch
 
-**Style:** Pale Ale
-**Batch Size**: 24 L
-**Original gravity:** 13° P
-**Final gravity:** 2,5° P
-**Alcohol:** 5,6% vol.
-**Bitterness:** 28 IBU
+**Style:** Pale Ale  
+**Batch Size**: 24 L  
+**Original gravity:** 13° P  
+**Final gravity:** 2,5° P  
+**Alcohol:** 5,6% vol.  
+**Bitterness:** 28 IBU  
 
 ### Malt
 
@@ -46,6 +46,6 @@ WLP001 California Ale Yeast
 
 ### Additional
 
-Dry Hopping: 7 g Mosaic (13,3 %) for 4 days
-High gravity brewing results in 24,5 L beer.
+Dry Hopping: 7 g Mosaic (13,3 %) for 4 days  
+High gravity brewing results in 24,5 L beer.  
 

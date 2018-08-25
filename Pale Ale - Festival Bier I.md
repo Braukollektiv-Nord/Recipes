@@ -1,11 +1,11 @@
-# Festival Bier - 1. Versuch                             ![BKN-Logo](D:\Bier Brauen\Rezepte\braukolletkiv-nord-recipes-master\BKN-Logo.png)
+# Festival Bier - 1. Versuch
 
-**Style:** Pale Ale
-**Batch Size**: 20 L
-**Original gravity:** 14° P
-**Final gravity:** 3,5° P
-**Alcohol:** 5,6% vol.
-**Bitterness:** 27 IBU
+**Style:** Pale Ale  
+**Batch Size**: 20 L  
+**Original gravity:** 14° P  
+**Final gravity:** 3,5° P  
+**Alcohol:** 5,6% vol.  
+**Bitterness:** 27 IBU  
 
 ### Malt
 

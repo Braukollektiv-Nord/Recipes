@@ -1,11 +1,11 @@
-# Black Beerd                               ![BKN-Logo](D:\Bier Brauen\Rezepte\braukolletkiv-nord-recipes-master\BKN-Logo.png)
+# Black Beerd
 
-**Style:** Irish Stout
-**Batch Size**: 20 L
-**Original gravity:** 11,75° P
-**Final gravity:** 5,2° P
-**Alcohol:** 3,4 % vol.
-**Bitterness:** 40 IBU
+**Style:** Irish Stout  
+**Batch Size**: 20 L  
+**Original gravity:** 11,75° P  
+**Final gravity:** 5,2° P  
+**Alcohol:** 3,4 % vol.  
+**Bitterness:** 40 IBU  
 
 ### Malt
 

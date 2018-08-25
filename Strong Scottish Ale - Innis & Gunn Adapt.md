@@ -1,11 +1,11 @@
-# Innis & Gunn Adapt                                       ![BKN-Logo](D:\Bier Brauen\Rezepte\braukolletkiv-nord-recipes-master\BKN-Logo.png)
+# Dark (Innis & Gunn Adapt)
 
-**Style:** Strong Scottish Ale
-**Batch Size**: 25 L
-**Original gravity:** 16° P
-**Final gravity:** 5° P
-**Alcohol:** 5,9% vol.
-**Bitterness:** 19 IBU
+**Style:** Strong Scottish Ale  
+**Batch Size**: 25 L  
+**Original gravity:** 16° P  
+**Final gravity:** 5° P  
+**Alcohol:** 5,9% vol.  
+**Bitterness:** 19 IBU  
 
 ### Malt
 

@@ -1,2 +1,2 @@
 # Recipes
-Beer recipes
+Home brewing beer recipes.

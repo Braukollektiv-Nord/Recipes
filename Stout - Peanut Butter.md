@@ -1,11 +1,11 @@
-# Peanut Butter Stout                 ![BKN-Logo](D:\Bier Brauen\Rezepte\braukolletkiv-nord-recipes-master\BKN-Logo.png)
+# Peanut Butter Stout
 
-**Style:** Stout
-**Batch Size**: 20 L
-**Original gravity:** 14,5° P
-**Final gravity:** 4,5° P
-**Alcohol:** 5,3% vol.
-**Bitterness:** 26 IBU
+**Style:** Stout  
+**Batch Size**: 20 L  
+**Original gravity:** 14,5° P  
+**Final gravity:** 4,5° P  
+**Alcohol:** 5,3% vol.  
+**Bitterness:** 26 IBU  
 
 ### Malt
 

@@ -1,12 +1,12 @@
-# Hopfenhelfer                               ![BKN-Logo](D:\Bier Brauen\Rezepte\braukolletkiv-nord-recipes-master\BKN-Logo.png)
+# Hopfenhelfer
 
-**Style:** Pale Ale
-**Batch Size**: 20 L
-**High Gravitiy Factor:** 20 %
-**Original gravity:** 12° P
-**Final gravity:** 2,7° P
-**Alcohol:** 4,9 % vol.
-**Bitterness:** 28 IBU
+**Style:** Pale Ale  
+**Batch Size**: 20 L  
+**High Gravitiy Factor:** 20 %  
+**Original gravity:** 12° P  
+**Final gravity:** 2,7° P  
+**Alcohol:** 4,9 % vol.  
+**Bitterness:** 28 IBU  
 
 ### Malt
 
@@ -44,7 +44,8 @@ Danstar Nottingham Ale
 
 ### Additional
 
-After primary fermentation divided the batch into 3 and add hop:
-\#1: 14 g Sorachi Ace
-\#2: 14 g Mandarina Bavaria
-\#3: 10 g Yellow Sub, 4 g Mosaic 
+After primary fermentation divided the batch into 3 and add hop:  
+\#1: 14 g Sorachi Ace  
+\#2: 14 g Mandarina Bavaria  
+\#3: 10 g Yellow Sub, 4 g Mosaic   
+

@@ -1,11 +1,11 @@
-# Charly Brown                                       ![BKN-Logo](D:\Bier Brauen\Rezepte\braukolletkiv-nord-recipes-master\BKN-Logo.png)
+# Charly Brown
 
-**Style:** (Bourbon) Vanilla Stout
-**Batch Size**: 20 L
-**Original gravity:** 12,9° P
-**Final gravity:** 4° P
-**Alcohol:** 4,5% vol.
-**Bitterness:** 29 IBU
+**Style:** (Bourbon) Vanilla Stout  
+**Batch Size**: 20 L  
+**Original gravity:** 12,9° P  
+**Final gravity:** 4° P  
+**Alcohol:** 4,5% vol.  
+**Bitterness:** 29 IBU  
 
 ### Malt
 

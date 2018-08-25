@@ -1,11 +1,11 @@
-# Sierra Nevada Pale Ale Klon                       ![BKN-Logo](D:\Bier Brauen\Rezepte\braukolletkiv-nord-recipes-master\BKN-Logo.png)
+# Sierra Nevada Pale Ale Klon
 
-**Style:** Pale Ale
-**Batch Size**: 20 L
-**Original gravity:** 14,2° P
-**Final gravity:** 3,7° P
-**Alcohol:** 5,6% vol.
-**Bitterness:** 37 IBU
+**Style:** Pale Ale  
+**Batch Size**: 20 L  
+**Original gravity:** 14,2° P  
+**Final gravity:** 3,7° P  
+**Alcohol:** 5,6% vol.  
+**Bitterness:** 37 IBU  
 
 ### Malt
 

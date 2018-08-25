@@ -1,11 +1,11 @@
-# Luscious Lemon Lager                                  ![BKN-Logo](D:\Bier Brauen\Rezepte\braukolletkiv-nord-recipes-master\BKN-Logo.png)
+# Luscious Lemon Lager
 
-**Style:** California Lager
-**Batch Size**: 20 L
-**Original gravity:** 11,5° P
-**Final gravity:** 2,8° P
-**Alcohol:** 4,4% vol.
-**Bitterness:** 33 IBU
+**Style:** California Lager  
+**Batch Size**: 20 L  
+**Original gravity:** 11,5° P  
+**Final gravity:** 2,8° P  
+**Alcohol:** 4,4% vol.  
+**Bitterness:** 33 IBU  
 
 ### Malt
 

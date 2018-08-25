@@ -1,11 +1,11 @@
-# Quoti                               ![BKN-Logo](D:\Bier Brauen\Rezepte\braukolletkiv-nord-recipes-master\BKN-Logo.png)
+# Quoti (das Quotenpils)
 
-**Style:** Pilsener
-**Batch Size**: 20 L
-**Original gravity:** 12,5° P
-**Final gravity:** 3° P
-**Alcohol:** 5,1 % vol.
-**Bitterness:** 31 IBU
+**Style:** Pilsener  
+**Batch Size**: 20 L  
+**Original gravity:** 12,5° P  
+**Final gravity:** 3° P  
+**Alcohol:** 5,1 % vol.  
+**Bitterness:** 31 IBU  
 
 ### Malt
 

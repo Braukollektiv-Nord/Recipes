@@ -1,11 +1,11 @@
-# Würziges Weihnachtswunder                 ![BKN-Logo](D:\Bier Brauen\Rezepte\braukolletkiv-nord-recipes-master\BKN-Logo.png)
+# Würziges Weihnachtswunder
 
-**Style:** Spiced Strong Ale
-**Batch Size**: 20 L
-**Original gravity:** 16° P
-**Final gravity:** 5° P
-**Alcohol:** 6,1% vol.
-**Bitterness:** 26 IBU
+**Style:** Spiced Strong Ale  
+**Batch Size**: 20 L  
+**Original gravity:** 16° P  
+**Final gravity:** 5° P  
+**Alcohol:** 6,1% vol.  
+**Bitterness:** 26 IBU  
 
 ### Malt
 

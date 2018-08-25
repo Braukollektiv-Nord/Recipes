@@ -1,11 +1,11 @@
-# Cursed Pumpkin Wheat                             ![BKN-Logo](D:\Bier Brauen\Rezepte\braukolletkiv-nord-recipes-master\BKN-Logo.png)
+# Cursed Pumpkin Wheat
 
-**Style:** Halloween Pumpkin Wheat
-**Batch Size**: 20 L
-**Original gravity:** 13,7° P
-**Final gravity:** 5,9° P
-**Alcohol:** 4,7% vol.
-**Bitterness:** 26 IBU
+**Style:** Halloween Pumpkin Wheat  
+**Batch Size**: 20 L  
+**Original gravity:** 13,7° P  
+**Final gravity:** 5,9° P  
+**Alcohol:** 4,7% vol.  
+**Bitterness:** 26 IBU  
 
 ### Malt & Pumpkin
 

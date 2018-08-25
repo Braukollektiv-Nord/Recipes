@@ -1,11 +1,11 @@
-# Plörre                               ![BKN-Logo](D:\Bier Brauen\Rezepte\braukolletkiv-nord-recipes-master\BKN-Logo.png)
+# Plörre
 
-**Style:** Elderflower Summer Ale
-**Batch Size**: 20 L
-**Original gravity:** 11,5° P
-**Final gravity:** 2,6° P
-**Alcohol:** 4,7 % vol.
-**Bitterness:** 26 IBU
+**Style:** Elderflower Summer Ale  
+**Batch Size**: 20 L  
+**Original gravity:** 11,5° P  
+**Final gravity:** 2,6° P  
+**Alcohol:** 4,7 % vol.  
+**Bitterness:** 26 IBU  
 
 ### Malt
 
@@ -47,4 +47,6 @@ Danstar Nottingham Ale
 
 ### Additional
 
-Dry-Hopping: 5,6 g Yellow Sub, 100 ml Elderflower Syrup
+Dry-Hopping:  
+5,6 g Yellow Sub  
+100 ml Elderflower Syrup  

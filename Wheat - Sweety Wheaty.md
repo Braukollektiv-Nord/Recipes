@@ -1,12 +1,12 @@
-# Sweety Wheaty                               ![BKN-Logo](D:\Bier Brauen\Rezepte\braukolletkiv-nord-recipes-master\BKN-Logo.png)
+# Sweety Wheaty
 
-**Style:** Wheat
-**Batch Size**: 20 L
-**High gravity factor:** 50 %
-**Original gravity:** 12,8° P
-**Final gravity:** 4,6° P
-**Alcohol:** 4,4 % vol.
-**Bitterness:** 20 IBU
+**Style:** Wheat  
+**Batch Size**: 20 L  
+**High gravity factor:** 50 %  
+**Original gravity:** 12,8° P  
+**Final gravity:** 4,6° P  
+**Alcohol:** 4,4 % vol.  
+**Bitterness:** 20 IBU  
 
 ### Malt
 
@@ -49,4 +49,6 @@ Mangrove Jack's M20 Bavarian Wheat
 
 ### Additional
 
-Dry-Hopping: 25 g Cascade US, 25 g Citra
+Dry-Hopping:   
+25 g Cascade US  
+25 g Citra  
