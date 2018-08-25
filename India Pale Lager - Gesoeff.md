@@ -1,4 +1,4 @@
-# ![BKN-Logo](.\BKN-Logo.png)   Gesöff
+Gesöff
 
 **Style:** India Pale Lager
 **Batch Size**: 20 L
