@@ -1,4 +1,4 @@
-# Gesöff                               ![BKN-Logo](D:\Bier Brauen\Rezepte\braukolletkiv-nord-recipes-master\BKN-Logo.png)
+# ![BKN-Logo](.\BKN-Logo.png)   Gesöff
 
 **Style:** India Pale Lager
 **Batch Size**: 20 L
