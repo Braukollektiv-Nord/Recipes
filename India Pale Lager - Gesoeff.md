@@ -1,12 +1,12 @@
-Gesöff
+# ![BKN-Logo.png](BKN-Logo.png) Gesöff
 
-**Style:** India Pale Lager
-**Batch Size**: 20 L
-**High Gravitiy Factor:** 20 %
-**Original gravity:** 14° P
-**Final gravity:** 3,2° P
-**Alcohol:** 5,7 % vol.
-**Bitterness:** 45 IBU
+**Style:** India Pale Lager  
+**Batch Size**: 20 L  
+**High Gravitiy Factor:** 20 %  
+**Original gravity:** 14° P  
+**Final gravity:** 3,2° P  
+**Alcohol:** 5,7 % vol.  
+**Bitterness:** 45 IBU  
 
 ### Malt
 
@@ -47,7 +47,8 @@ Gesöff
 
 ### Additional
 
-Dry-Hopping for 6 days:
-50 g Citra (14,1 %)
-30 g Mandarina Bavaria (8,7 %)
-20 g Mosaic (13,3 %) 
+Dry-Hopping for 6 days:  
+50 g Citra (14,1 %)  
+30 g Mandarina Bavaria (8,7 %)  
+20 g Mosaic (13,3 %)   
+
