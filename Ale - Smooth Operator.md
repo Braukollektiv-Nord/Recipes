@@ -1,6 +1,6 @@
-# Red Honey Ale
+# Smooth Operator
 
-**Style:** Red (Brown) Ale  
+**Style:** Red (Brown) Honey Ale  
 **Batch Size**: 20 L  
 **Original gravity:** 14,3° P  
 **Final gravity:** 3,5° P  
